@@ -1,2 +1,2 @@
 username: "my_user_name_slack"
-password_slack: "dqsmkldfjsqmfjç!èéç"')ç&éè23458290UOLDKJnKJH8U197Zmjlsdjqmsjdduà&çudjlksmqdsd"
+password_slack: "dqsmkldfjsqmfjç!èéç"')ç&éè23458290UOLDKJnlj68982JLJ97Zmjlsdjqmsjdduà&çudjlksmqdsd"
